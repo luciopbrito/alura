@@ -6,4 +6,4 @@ This repository has created to update content about Alura's courses.
 
 Course name: Automação de processos e modelagem de fluxos N8N
 
-Doing...
+[Go to README.md](./automacao-processos-modelagem-de-fluxos-n8n/README.md)
