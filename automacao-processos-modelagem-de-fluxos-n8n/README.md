@@ -5,3 +5,5 @@
 [01 — Processes analysis](./01-analise-de-processos/README.md)
 
 [02 — Automation Fundamentals](./02-fundamentos-da-automacao/README.md)
+
+[03 — Decision-making](./03-tomada-de-decisao-ramificacao-da-automacao/README.md)
